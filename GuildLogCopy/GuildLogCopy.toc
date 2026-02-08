@@ -1,0 +1,17 @@
+## Interface: 30300
+## Title: |cff7fff7f Guild|r Log |cff0066ff Copy|r |cFFFFA0A0 by Wizzergod|r
+## Author: |cff0066ff W|r|cff0066ff izzergod|r
+## Version: 0.1.0
+## X-Date: 2026-02-05
+## X-Category: Guild
+## X-Website: 
+## URL: 
+## X-Email: 
+## X-Localizations: enUS, ruRU
+## Description: Copyable guild log window |cff0066ff (UTF8)|r |cff7fff7f /glog|r
+## Notes: Copyable guild log window |cff7fff7f /glog|r
+## SavedVariables: GLC_Data
+## SavedVariablesPerCharacter: GLC_CharDB
+## OptionalDeps: myAddOns,Ace2, Waterfall-1.0, AbacusLib, Fizzwidget Reagent Cost, LibPeriodicTable-3.1, WindowLib, LibStub, CharacterInfoStorage, Sanity2
+## X-Embeds: Ace2, Waterfall-1.0, AbacusLib, LibPeriodicTable-3.1, WindowLib, LibStub
+GuildLogCopy.lua
